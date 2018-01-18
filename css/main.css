@@ -25,7 +25,7 @@ a:hover {
     color: purple;
 }
 
-#bg {
+canvas#bg {
     position: absolute;
     left: 0;
     top: 0;
