@@ -25,6 +25,15 @@ a:hover {
     color: purple;
 }
 
+#bg {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 100%;
+    bottom: 100%;
+    z-index: -999;
+}
+
 #gitBtn {
     background: black;
     border: black;
